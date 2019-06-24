@@ -1,3 +1,5 @@
+This Privacy Policy applies to East Siberia Development’s owned and operated games, websites and related services (“Service”)
+
 This Privacy Policy explains:
 
 - What information of yours will be collected
