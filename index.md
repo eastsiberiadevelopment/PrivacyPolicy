@@ -21,7 +21,7 @@ _Automatically Collected Data:_
 - Data about your use of the Service, such as gameplay data and your interactions with other users inside the Service
 - Data about your account and game progress
 
-In most cases, we also create a East Siberia Development-specific ID for you when you use the Service.
+In most cases, we also create an East Siberia Development-specific ID for you when you use the Service.
 
 _Information From Other Sources_
 
