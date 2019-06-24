@@ -1,16 +1,3 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/eastsiberiadevelopment/east.siberia.development.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
 # Header 1
 ## Header 2
 ### Header 3
@@ -24,14 +11,131 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+This Privacy Policy explains:
 
-### Jekyll Themes
+- What information of yours will be collected
+- The ways we collect personal data about you and how the information will be used, and
+- How you can control the collection, correction and/or deletion of information
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eastsiberiadevelopment/east.siberia.development.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**1. Information we may collect**
 
-### Support or Contact
+_User-Provided Information:_
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Name, Nickname and email address, profile information (e.g. profile photo)
+Your messages to the Service (such as chat logs and user support tickets)
+Automatically Collected Data:
+
+IP address or other device address or ID
+web browser and/or device type
+Data we collect with cookies and similar technologies (see more below)
+General location data and
+Precise geo-location data (GPS, with your consent)
+Data about your use of the Service, such as gameplay data and your interactions with other users inside the Service
+Data about your account and game progress
+In most cases, we also create a Crazy Panda-specific ID for you when you use the Service.
+
+Information From Other Sources
+
+We may obtain information, including Personal Data, from third parties and sources other than the Service, such as our partners and advertisers:
+
+Data we receive if you link a third party tool with the Service (such as Facebook, WeChat or Google)
+Demographic data (such as to determine the coarse location of your IP address)
+Data to fight fraud (such as refund abuse in games or click fraud in advertising)
+Data from platforms that the games run on (such as to verify payment)
+Data for analytics and advertising purposes, so we can provide you a better Service
+2. How we use the information we collect
+
+Operations, Improvements, Communications:
+
+We use the information
+
+To operate, maintain, enhance and provide all features of the Service
+To provide the services and information that you request
+To respond to comments and questions
+To provide support to users of the Service
+To understand and analyze the preferences of users, to improve the Service, and to develop new products, services, feature, and functionality
+Cookies And Tracking Technologies
+
+We use automatically collected information and other information collected on the Service through cookies and similar technologies to:
+
+personalize our Service
+provide customized advertisements, content, and information
+monitor and analyze the effectiveness of Service and third-party marketing activities
+With your consent, we may process your data for additional purposes, such as using your GPS location to show you local events
+3. To whom we disclose information
+
+Other Players And Users
+
+Any personally identifiable information you elect to make publicly available on our Service will be available to others.
+
+Our Partners Working for Crazy Panda
+
+We limit the information provided to our partners to that which is reasonably necessary for them to perform their functions to provide the Service, such as hosting, user support, advertising, analytics and fraud prevention.
+
+Law Enforcement And Public Authorities
+
+We may disclose your information if required to do so by law, in response to subpoena or other legal proceeding or if we reasonably believe that such action is necessary to
+
+comply with applicable laws and the reasonable requests of law enforcement
+to enforce our Terms of Service or to protect the security or integrity of our Service
+to exercise or protect the rights, property, or personal safety of Internet Panda, our users or others.
+Advertising And Social Media Partners
+
+The Service includes features from our partners, such as social media interaction tools and in-game advertising. Your interactions with these features are governed by the privacy policy of the company providing it.
+
+ 
+
+4. Data Transfer
+
+Our Service is global by nature and your data can therefore be transferred to anywhere in the world. Because different countries may have different data protection laws than your own country, we take steps to ensure adequate safeguards are in place to protect your data as explained in this Policy. Adequate safeguards that our partners may use include standard contractual clauses approved by EU Commission and the Privacy Shield certification in case of transfers to the USA.
+
+ 
+
+5. Your Choices And Rights
+
+Opt-Out Of Commercial Communications And Other Direct Marketing
+
+You may opt-out of receiving marketing emails from us by following the instructions in such communications.
+
+Opt-Out Of Targeted Advertising
+
+You can opt-out of interest-based advertising on mobile applications by checking the privacy settings of your Android or iOS device and selecting “limit ad tracking” (Apple iOS) or “opt-out of interest based ads” (Android). For more information, see also: http://crazypanda.ru/eng/opt-out.
+
+Access, Correction, Deletion
+
+If you wish to access or correct any Personal Data we hold about you, or to request that we delete any information about you, or restrict how we use or share your data you may contact us as set forth in the “Contact Us” section. We will respond to all requests within a reasonable timeframe.
+
+Cookies And Similar Technologies
+
+You can disable cookies in your browser settings, but some parts of the Service may then not function properly.
+
+ 
+
+6. How Do We Protect Your Data
+
+Security Safeguards
+
+We take all the necessary and sufficient measures, organizational and technical, to protect your Data from unlawful and/or accidental access, destruction, amendment, blocking, copying, distribution, and any other unlawful actions by any third party.
+
+This includes, for example, firewalls, password protection and other access and authentication controls. We use SSL technology to encrypt data during transmission through public internet, and we also employ application-layer security features to further anonymize Personal Data.
+
+If you have any questions about security on our Site, you can contact us at support@crazypanda.ru.
+
+If we learn of a security systems breach, we will inform you of the occurrence of the breach in accordance with applicable laws of the Russian Federation and international legislation.
+
+Data retention
+
+We retain your data for as long as your account is active or as needed to provide you the Service. We will for example periodically de-identify unused game accounts and we regularly review and de-identify unnecessary data.
+
+Note that if you ask us to remove your personal data, we will retain your data as necessary for our legitimate business interests, such as to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+Age Limits
+
+We do not knowingly collect or solicit personal data about or direct or target interest based advertising to anyone under the age of 13 or knowingly allow such persons to use our Services. If you are under 13, please do not send any data about yourself to us, including your name, address, telephone number, or email address. No one under the age of 13 may provide any personal data. If we learn that we have collected personal data about a child under age 13 and without verifiable parental consent, we will delete that data as quickly as possible. If you believe that we might have any data from or about a child under the age of 13, please contact us.
+
+ 
+
+7. Contact Us
+
+If you have any questions about this Privacy Policy, data protection, please contact us at support@crazypanda.ru
