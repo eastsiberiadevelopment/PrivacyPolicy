@@ -1,4 +1,4 @@
-This Privacy Policy applies to East Siberia Development’s owned and operated games, websites and related services (“Service”)
+This Privacy Policy applies to East Siberia Development’s (OOO Sibir) owned and operated games, websites and related services (“Service”)
 
 This Privacy Policy explains:
 
@@ -62,7 +62,7 @@ _Other Players And Users_
 
 Any personally identifiable information you elect to make publicly available on our Service will be available to others.
 
-_Our Partners Working for East Siberia Development_
+_Our Partners Working for East Siberia Development (OOO Sibir)_
 
 We limit the information provided to our partners to that which is reasonably necessary for them to perform their functions to provide the Service, such as hosting, user support, advertising, analytics and fraud prevention.
 
@@ -108,7 +108,7 @@ We take all the necessary and sufficient measures, organizational and technical,
 
 This includes, for example, firewalls, password protection and other access and authentication controls. We use SSL technology to encrypt data during transmission through public internet, and we also employ application-layer security features to further anonymize Personal Data.
 
-If you have any questions about security on our Site, you can contact us at east.siberia.development@gmail.com.
+If you have any questions about security on our Site, you can contact us at east.siberia.development@gmail.com or kovatet@gmail.com.
 
 If we learn of a security systems breach, we will inform you of the occurrence of the breach in accordance with applicable laws of the Russian Federation and international legislation.
 
@@ -124,4 +124,4 @@ We do not knowingly collect or solicit personal data about or direct or target i
 
 **7. Contact Us**
 
-If you have any questions about this Privacy Policy, data protection, please contact us at east.siberia.development@gmail.com
+If you have any questions about this Privacy Policy, data protection, please contact us at east.siberia.development@gmail.com or kovatet@gmail.com
